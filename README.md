@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Introducing Myself
 
-<!--
-**sarinabridges/sarinabridges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Sarina. Data Analyst with expertise in data analysis, reporting, and modeling.
 
-Here are some ideas to get you started:
+* Generate reports and conduct ad-hoc data analyses using Python, R, and SQL.
+* Develop dashboards using Tableau.
+* Design and maintain reporting frameworks using Markdown. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+Welcome to my portfolio, where I showcase some of my projects.
+
+### Tools
+
+Language: Python, R, SQL, Markdown  
+Visualization: Tableau
+
+### Connect with Me
+
+[Linkedin](www.linkedin.com/in/sarina-bridges)
