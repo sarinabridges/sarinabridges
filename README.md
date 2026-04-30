@@ -1,6 +1,6 @@
 # 👋 Introducing Myself
 
-Hello, I'm Sarina. Data Analyst with expertise in data analysis, reporting, and modeling.
+Hello, I'm Sarina! I am a Data Scientist with expertise in data analysis, reporting, and modeling.
 
 * Generate reports and conduct ad-hoc data analyses using Python, R, and SQL.
 * Develop dashboards using Tableau.
